@@ -1,0 +1,14 @@
+{
+  "name": "aplicacion_cliente",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Julen Recio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "pg": "^8.11.0"
+  }
+}
