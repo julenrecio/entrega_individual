@@ -1,2 +1,2 @@
 Este es mi archivo README.
-Editado desde github
+Editado desde VIM
